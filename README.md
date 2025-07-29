@@ -53,12 +53,6 @@ Edit
 
 ---
 
-## 📸 Live Preview
-
-🔗 [View Live Website](https://your-live-portfolio-link.com)
-
----
-
 ## 🛠️ Setup & Run Locally
 
 ```bash
