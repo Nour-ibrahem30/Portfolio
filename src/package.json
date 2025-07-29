@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Welcome to my personal developer portfolio!  \r This responsive website showcases my GitHub projects dynamically using the GitHub API, with live demos and screenshots for each project.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nour-ibrahem30/Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Nour-ibrahem30/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Nour-ibrahem30/Portfolio#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
